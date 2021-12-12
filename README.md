@@ -3,7 +3,7 @@
 ## Background & Objectives
 In this project we build a speech-synthesis app by using the Web Speech API, which will convert text, that the user can write in the text area, into voice. The user will be able to select the different voices available and play with its speed and pitch.
 
-SOUND ON
+### **SOUND ON**
 https://user-images.githubusercontent.com/67716187/145733808-21f9acef-e683-408a-bf64-d3130e727f96.mov
 
 ## Features
