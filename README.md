@@ -23,7 +23,7 @@ Project created with:
 ### Cloning
 Go to the Terminal, choose a directory where you wish to clone the repository and run:
 ```bash
-git clone git@github.com:Francisco-Webdeveloper/Follow-Along-Links.git
+git clone git@github.com:Francisco-Webdeveloper/Speech-Synthesis.git
 ```
 
 ### Local Server
