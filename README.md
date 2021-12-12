@@ -3,6 +3,9 @@
 ## Background & Objectives
 In this project we build a speech-synthesis app by using the Web Speech API, which will convert text, that the user can write in the text area, into voice. The user will be able to select the different voices available and play with its speed and pitch.
 
+SOUND ON
+https://user-images.githubusercontent.com/67716187/145733808-21f9acef-e683-408a-bf64-d3130e727f96.mov
+
 ## Features
 * SpeechSynthesisUtterance - interface of the Web Speech API that represents a speech request. It contains the content the speech service should read and info about how to read it (language, picht and speed).
 * SpeechSynthesis: voiceschanged event - it is fired when the list of SpeechSynthesisVoice objects that would be returned by the SpeechSynthesis.getVoices() method has changed
